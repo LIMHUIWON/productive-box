@@ -1,4 +1,4 @@
-name: "productive-box"
+name: productive-box
 author: "maxam2017"
 description: "Are you an early 🐤 or a night 🦉? Let's check out in gist"
 branding:
@@ -7,3 +7,4 @@ branding:
 runs:
   using: "node12"
   main: "dist/index.js"
+uses: maxam2017/productive-box@v1.1.1
