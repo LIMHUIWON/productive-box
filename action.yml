@@ -1,4 +1,5 @@
-name: productive-box
+- name: productive-box
+  uses: maxam2017/productive-box@v1.1.1
 author: "maxam2017"
 description: "Are you an early 🐤 or a night 🦉? Let's check out in gist"
 branding:
